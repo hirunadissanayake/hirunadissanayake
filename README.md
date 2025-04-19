@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 ## About Me:
 Hi, I'm Hiruna Dissanayake, a passionate Software Engineering student with a strong interest in Front-end development, UI/UX design, and building impactful tech solutions.
 
